@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+.list-group {
+    background-color:blanchedalmond;
+    width: fit-content;
+}
+.list-group-item {
+  background-color:cadetblue;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
